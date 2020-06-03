@@ -1,3 +1,4 @@
+//Vandermode行列をmersenne_twiser.hを用いて作成し、それをLU分解して固有値を求めたものと厳密解とを比べるプログラム
 #include <iostream>
 #include <math.h>
 #include "mersenne_twister.h"
